@@ -16,7 +16,7 @@
     "express-validator": "2.7.0",
     "express-session": "1.9.3",
     "express-session-json": "0.0.7",
-    "syslogh": "1.1.2",
+    "syslogh": "1.2.1",
     "harvest": "gacek85/node-harvest#master",
     "node-uuid": "1.4.2",
     "moment": "2.9.0",
